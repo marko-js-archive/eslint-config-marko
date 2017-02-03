@@ -10,6 +10,7 @@
   "author": "Phillip Gates-Idem <phillip.idem@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-semistandard": "^7.0.0"
+    "eslint-config-semistandard": "^7.0.0",
+    "standard": "^8.6.0"
   }
 }

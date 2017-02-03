@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-marko",
+  "version": "1.0.0",
+  "description": "eslint configuration plugin for marko projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marko-js/eslint-config-marko"
+  },
+  "author": "Phillip Gates-Idem <phillip.idem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-semistandard": "^7.0.0"
+  }
+}
